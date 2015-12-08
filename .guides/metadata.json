@@ -26,7 +26,7 @@
      "action": "close"
     },
     {
-     "path": "challenges/Experiment.java",
+     "path": "content/Experiment.java",
      "panel": 0,
      "action": "open"
     }
@@ -172,7 +172,7 @@
      "action": "close"
     },
     {
-     "path": "challenges/easy.js",
+     "path": "challenges/easy/Challenge.java",
      "panel": 0,
      "action": "open"
     }

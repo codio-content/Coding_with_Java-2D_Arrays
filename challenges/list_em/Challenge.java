@@ -11,25 +11,6 @@ public class Challenge {
 
         // Your code goes here
         
-        // Initialize a grand total counter
-        int gtotal= 0;
-
-        // for each row
-        for ( int row=0; row < inputArray.length; row++ ) {
-          // total this row up
-          int rowTotal= 0;
-          for ( int col=0; col < inputArray[row].length; col++ ) {
-            // add this element to the row total
-            rowTotal += inputArray[row][col];
-          }
-          // output this row total
-          System.out.println(rowTotal);
-
-          // add this row to the grand total
-          gtotal += rowTotal;
-        }
-        // output the grand total
-        System.out.println(gtotal);
 
        
         

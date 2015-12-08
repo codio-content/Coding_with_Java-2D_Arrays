@@ -10,7 +10,6 @@ public class Challenge {
         };
       
         // Write your code below
-        System.out.println(strings[1][2]);
         
     }
 }

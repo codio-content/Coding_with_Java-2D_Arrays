@@ -10,16 +10,7 @@ public class Challenge {
       int B = Integer.parseInt(args[1]);
 
       // Your code goes here
-      List<List<String>> result = new ArrayList<List<String>>(A);
       
-      for (int i=0; i < A; i++ ) {
-        result.add(new ArrayList<String>());
-        for (int j=0; j < B; j++ ) {
-          result.get(i).add( "R"+ i + "C" + j );
-        }
-      }
-
-      System.out.println(result);
        
     }
 }
