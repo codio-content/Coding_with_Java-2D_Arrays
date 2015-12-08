@@ -194,7 +194,7 @@
      "action": "close"
     },
     {
-     "path": "challenges/list.js",
+     "path": "challenges/list_em/Challenge.java",
      "panel": 0,
      "action": "open"
     }
@@ -216,7 +216,7 @@
      "action": "close"
     },
     {
-     "path": "challenges/dynamic.js",
+     "path": "challenges/dynamic/Challenge.java",
      "panel": 0,
      "action": "open"
     }

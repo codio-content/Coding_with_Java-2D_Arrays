@@ -1,9 +1,3 @@
-{Check It!|assessment}(test-2304874676)
-
-|||guidance
-### Solution
-```java
-
 public class Challenge {
 
     public static void main(String[] args) {
@@ -20,7 +14,3 @@ public class Challenge {
         
     }
 }
-
-
-```
-|||

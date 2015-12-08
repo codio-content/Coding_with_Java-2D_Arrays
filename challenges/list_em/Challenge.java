@@ -1,10 +1,3 @@
-{Check It!|assessment}(test-3455473410)
-
-
-|||guidance
-### Solution
-```java
-
 public class Challenge {
 
     public static void main(String[] args) {
@@ -42,7 +35,3 @@ public class Challenge {
         
     }
 }
-
-
-```
-|||
