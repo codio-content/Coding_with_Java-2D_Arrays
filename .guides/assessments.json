@@ -1,0 +1,50 @@
+[
+ {
+  "type": "test",
+  "taskId": "test-2304874676",
+  "source": {
+   "showName": false,
+   "answers": [],
+   "tokens": {
+    "blank": [],
+    "text": []
+   },
+   "points": 1,
+   "command": "tests/easy/test.sh",
+   "instructions": "We pass in a 2 dimensional array. You should output the 3rd element of the 2nd row.",
+   "name": "Easy peasy"
+  }
+ },
+ {
+  "type": "test",
+  "taskId": "test-3455473410",
+  "source": {
+   "showName": false,
+   "answers": [],
+   "tokens": {
+    "blank": [],
+    "text": []
+   },
+   "points": 1,
+   "command": "tests/list_em/test.sh",
+   "instructions": "We will pass in a 2 dimensional array of numbers. \n\nYou should \n\n- add up all the numbers in each row and output that number\n- output the grand total of all rows\n\n",
+   "name": "List 'em out"
+  }
+ },
+ {
+  "type": "test",
+  "taskId": "test-667129063",
+  "source": {
+   "showName": false,
+   "answers": [],
+   "tokens": {
+    "blank": [],
+    "text": []
+   },
+   "points": 1,
+   "command": "tests/dynamic/test.sh",
+   "instructions": "We pass in 2 numbers, A and B. You should create an array with A rows and B columns.\n\nYou should then populate each cell like this ...\n\n- 'R0C0', 'R0C1', 'R0C2' etc.",
+   "name": "Dynamic creation"
+  }
+ }
+]
