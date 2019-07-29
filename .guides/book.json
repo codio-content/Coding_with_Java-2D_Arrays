@@ -1,0 +1,83 @@
+{
+ "name": "Coding_with_Java-2D_Arrays",
+ "children": [
+  {
+   "title": "2D arrays",
+   "id": "3733e97e-d753-77e6-a411-464a9cefdc08",
+   "pageId": "3733e97e-d753-77e6-a411-464a9cefdc08",
+   "type": "chapter",
+   "children": [
+    {
+     "title": "Experiments",
+     "id": "10f2acfd-875f-5469-205c-26c175d5ea2f",
+     "pageId": "10f2acfd-875f-5469-205c-26c175d5ea2f",
+     "type": "page"
+    }
+   ]
+  },
+  {
+   "title": "2D arrays explained",
+   "id": "9ced3c8d-bdc2-a604-a1ec-4914b24b593",
+   "pageId": "9ced3c8d-bdc2-a604-a1ec-4914b24b593",
+   "type": "chapter",
+   "children": [
+    {
+     "title": "Example",
+     "id": "dd909ea1-6c22-ee40-fd3f-4c9d1f22c1b0",
+     "pageId": "dd909ea1-6c22-ee40-fd3f-4c9d1f22c1b0",
+     "type": "page"
+    },
+    {
+     "title": "Reading from a 2D array",
+     "id": "d4ba77cf-4f78-1686-6771-5ec052f5bd57",
+     "pageId": "d4ba77cf-4f78-1686-6771-5ec052f5bd57",
+     "type": "page"
+    },
+    {
+     "title": "Creating a dynamic 2D array",
+     "id": "7518145e-949b-4234-d33a-b122a2b86bcb",
+     "pageId": "7518145e-949b-4234-d33a-b122a2b86bcb",
+     "type": "page"
+    },
+    {
+     "title": "Dynamic 2D array in Java",
+     "id": "e44912de-e32-caad-683d-aff8893dd69f",
+     "pageId": "e44912de-e32-caad-683d-aff8893dd69f",
+     "type": "page"
+    }
+   ]
+  },
+  {
+   "title": "Challenges",
+   "id": "9b69b0c1-e3af-dfd2-d6df-8b65be83d4a3",
+   "pageId": "9b69b0c1-e3af-dfd2-d6df-8b65be83d4a3",
+   "type": "chapter",
+   "children": [
+    {
+     "title": "Easy peasy",
+     "id": "6ba0ff8a-a6e7-278f-475d-22d81c726e92",
+     "pageId": "6ba0ff8a-a6e7-278f-475d-22d81c726e92",
+     "type": "page"
+    },
+    {
+     "title": "List 'em out",
+     "id": "1090b738-e9e-ae4c-b0ad-6849f5f9e3ae",
+     "pageId": "1090b738-e9e-ae4c-b0ad-6849f5f9e3ae",
+     "type": "page"
+    },
+    {
+     "title": "Dynamic creation",
+     "id": "de092301-8d84-f059-c32c-2707e4b48814",
+     "pageId": "de092301-8d84-f059-c32c-2707e4b48814",
+     "type": "page"
+    },
+    {
+     "title": "All done!!",
+     "id": "ab46fd8a-dc6a-f74c-474b-68433267eef1",
+     "pageId": "ab46fd8a-dc6a-f74c-474b-68433267eef1",
+     "type": "page"
+    }
+   ]
+  }
+ ]
+}
